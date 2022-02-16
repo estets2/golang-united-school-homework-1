@@ -1,4 +1,4 @@
-module github.com/estets2/golang-united-school-homework-1
+module github.com/estets2/solution
 
 go 1.17
 
