@@ -1,4 +1,4 @@
-module github.com/estets2/solution
+module github.com/estets2/main
 
 go 1.17
 
